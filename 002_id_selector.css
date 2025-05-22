@@ -1,0 +1,23 @@
+h1{
+    color: blueviolet;
+    text-decoration: underline;
+}
+#container{
+    font-size: 20px;
+    font-weight: 600;
+}
+#book1{
+    background-color: lightskyblue;
+}
+#book2{
+    background-color: bisque;
+}
+#book3{
+    background-color: bisque;
+}
+#book4{
+    background-color: violet;
+}
+#book5{
+    background-color:skyblue;
+}
