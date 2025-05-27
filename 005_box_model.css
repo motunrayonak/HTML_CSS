@@ -1,0 +1,35 @@
+#box1{
+    width: 200px;
+    height: 150px;
+    padding-top: 20px;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-bottom: 20px;
+    margin-top: 20px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    border-width: 3px;
+    border-style: solid;
+    border-color: darkblue;
+    box-sizing: content-box;
+    background-color: lightblue;
+}
+#box2{
+    width: 250px;
+    height: 100px;
+    padding: 10px 20px 10px 20px;
+    margin: 15px 25px 15px 25px;
+    border: 5px dashed darkgreen;
+    box-sizing: border-box;
+    background-color: peachpuff;
+}
+#box3{
+    width: 180px;
+    height: 180px;
+    padding: 30px 10px 15px 10px;
+    margin: 25px 5px 10px 5px;
+    border: 2px dotted steelblue;
+    box-sizing: border-box;
+    background-color: lavender;
+}
